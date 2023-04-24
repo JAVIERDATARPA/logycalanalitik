@@ -1,0 +1,9 @@
+{
+	"name": "datatestjavi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1a17863-416f-4f14-a045-50759cf1c479",
+		"tenantId": "ae525757-89ba-4d30-a2f7-49796ef8c604"
+	}
+}
