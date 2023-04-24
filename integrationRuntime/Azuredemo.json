@@ -1,0 +1,6 @@
+{
+	"name": "Azuredemo",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
